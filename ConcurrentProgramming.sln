@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.LockBasic", "01.LockBasic\01.LockBasic.csproj", "{AF36704B-6503-44BC-81CF-D4E65B00564A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF36704B-6503-44BC-81CF-D4E65B00564A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF36704B-6503-44BC-81CF-D4E65B00564A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF36704B-6503-44BC-81CF-D4E65B00564A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF36704B-6503-44BC-81CF-D4E65B00564A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7AA4D64-D75F-4A4F-AA76-4F1A1CC8CD96}
+	EndGlobalSection
+EndGlobal
